@@ -7,7 +7,7 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
 <details>
   <summary> SESSÂO 1 - Intrudução</summary>
 
- 1. **[Intrudução](sessao1-Introducaohttps://github.com/Marcos-Ramoss/aws-cloud-practitioner)**  
+ 1. **[Intrudução](sessao1-Introducao/README.md)**  
 
 </details> 
 
@@ -19,7 +19,7 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
 <details>
   <summary> SESSÂO 3 - Cloud Computing</summary>
 
- 1. **[Conceitos Fundamentais de Cloud Computing](sessao3-conceito-CloudComputinghttps://github.com/Marcos-Ramoss/aws-cloud-practitioner)** 
+ 1. **[Conceitos Fundamentais de Cloud Computing](sessao3-conceito-CloudComputing/README.md)** 
  2. **[Conceitos Tipos de Cloud Computing com Exemplos](sessao3-conceito-CloudComputing/resumo-detalhado.md)**
  3. **[Conceitos  Planos de Suporte AWS](sessao3-conceito-CloudComputing/suporte.md)** 
 
