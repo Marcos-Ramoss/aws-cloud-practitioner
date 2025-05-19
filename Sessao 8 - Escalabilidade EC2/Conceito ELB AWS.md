@@ -210,4 +210,4 @@ aws elbv2 describe-load-balancers \
 ---
 
 ## Arquitetura com ALB + ASG
-![Arquitetura com ALB + ASG](/images/Diagrama%20Arquitetura%20com%20ALB_ASG.png)
+![Arquitetura com ALB_ASG](/images/Diagrama%20Arquitetura%20com%20ALB_ASG.png)
