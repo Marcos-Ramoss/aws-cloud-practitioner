@@ -1,5 +1,5 @@
 ## Botão Voltar ao Início
-[⬆️ Voltar ao Início](/README.MD)
+[⬆️ Voltar ao Início](https://github.com/Marcos-Ramoss/aws-cloud-practitioner)
 
 ---
 
