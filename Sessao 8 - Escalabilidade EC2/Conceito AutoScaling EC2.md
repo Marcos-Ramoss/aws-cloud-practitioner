@@ -1,3 +1,8 @@
+## Botão Voltar ao Início
+[⬆️ Voltar ao Início](/README.md)
+
+---
+
 # Auto Scaling EC2 AWS
 
 ## Conceito

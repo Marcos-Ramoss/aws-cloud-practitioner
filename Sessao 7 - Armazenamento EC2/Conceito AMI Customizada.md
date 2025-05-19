@@ -1,3 +1,8 @@
+## Botão Voltar ao Início
+[⬆️ Voltar ao Início](/README.md)
+
+---
+
 # AMI Customizada (Amazon Machine Image)
 
 ## Conceito

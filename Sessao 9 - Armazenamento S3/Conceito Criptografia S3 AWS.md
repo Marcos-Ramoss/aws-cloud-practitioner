@@ -1,3 +1,8 @@
+## Botão Voltar ao Início
+[⬆️ Voltar ao Início](/README.md)
+
+--- 
+
 # Amazon S3 Encryption
 
 ## Conceito
@@ -230,4 +235,5 @@ aws s3api get-bucket-encryption \
 ## Diagrama de Decisão
 ![Diagrama de Decisao](/images/Diagrama%20de%20Decisao.png)
 
---- 
+---
+

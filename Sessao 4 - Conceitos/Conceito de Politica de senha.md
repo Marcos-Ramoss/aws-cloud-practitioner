@@ -1,3 +1,8 @@
+## Botão Voltar ao Início
+[⬆️ Voltar ao Início](/README.md)
+
+---
+
 # Política de Senha na AWS – Conceito Completo
 
 ## Conceito

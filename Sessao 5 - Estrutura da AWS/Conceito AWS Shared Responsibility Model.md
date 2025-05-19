@@ -1,3 +1,8 @@
+## Botão Voltar ao Início
+[⬆️ Voltar ao Início](/README.md)
+
+---
+
 # AWS Shared Responsibility Model (Modelo de Responsabilidade Compartilhada)
 
 ## Conceito

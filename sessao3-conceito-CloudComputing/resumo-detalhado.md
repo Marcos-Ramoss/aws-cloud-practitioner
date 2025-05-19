@@ -1,3 +1,8 @@
+## Botão Voltar ao Início
+[⬆️ Voltar ao Início](/README.md)
+
+---
+
 # Tipos de Cloud Computing com Exemplos
 
 ## Diagrama Interativo (Mermaid)

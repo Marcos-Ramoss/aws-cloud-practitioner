@@ -1,3 +1,8 @@
+## Botão Voltar ao Início
+[⬆️ Voltar ao Início](/README.md)
+
+--- 
+
 # Amazon S3 File Gateway
 
 ## Conceito
@@ -214,4 +219,4 @@ aws storagegateway list-file-shares \
 ## Quando Usar?
 ![Quando Usar Gateway](/images/Quando%20Usar%20Gateway.png)
 
---- 
+---
