@@ -83,11 +83,21 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
  4. **[Conceito AutoScaling EC2](Sessao%208%20-%20Escalabilidade%20EC2/Conceito%20AutoScaling%20EC2.md)**
  5. **[Conceito ELB](Sessao%208%20-%20Escalabilidade%20EC2/Conceito%20ELB%20AWS.md)**
 
+</details> 
 
 
+<details>
+  <summary> SESSÂO 9 - Armazenamento S3 </summary>
 
-
-
+ 1. **[Conceito S3 AWS](Sessao%209%20-%20Armazenamento%20S3/Conceito%20S3%20AWS.md)**
+ 2. **[Conceito Valores S3 AWS](Sessao%209%20-%20Armazenamento%20S3/Conceito%20Valores%20S3%20AWS.md)**
+ 3. **[Conceito Bucket S3 AWS](Sessao%209%20-%20Armazenamento%20S3/Conceito%20Bucket%20S3%20AWS.md)**
+ 4. **[Conceito Replicação Bucket S3 AWS](Sessao%209%20-%20Armazenamento%20S3/Conceito%20Replicação%20S3%20AWS.md)**
+ 5. **[Conceito Classes S3 AWS](Sessao%209%20-%20Armazenamento%20S3/Conceito%20Classes%20S3%20AWS.md)**
+ 6. **[Conceito Versionamento S3 AWS](Sessao%209%20-%20Armazenamento%20S3/Conceito%20Versionamento%20S3%20AWS.md)**
+ 7. **[Conceito Storage Gateway S3 AWS](Sessao%209%20-%20Armazenamento%20S3/Conceito%20Storage%20Gateway%20S3%20AWS.md)**
+ 8. **[Conceito Criptografia S3 AWS](Sessao%209%20-%20Armazenamento%20S3/Conceito%20Criptografia%20S3%20AWS.md)**
+ 9. **[Conceito Familia Snow AWS](Sessao%209%20-%20Armazenamento%20S3/Conceito%20Familia%20Snow%20AWS.md)**
 
 </details> 
 
