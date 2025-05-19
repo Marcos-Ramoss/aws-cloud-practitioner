@@ -14,7 +14,7 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
    - AWS Shield e KMS  
    - Conformidades (GDPR, HIPAA)
 
-3. **[Tecnologia AWS](3-tecnologia-aws/README.md)**  
+3. **[Tecnologia AWS](sessao3-conceito-CloudComputing/README.md)**  
    - Serviços essenciais (EC2, S3, RDS, Lambda)  
    - Arquitetura Global (Regiões, AZs)
 
