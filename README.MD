@@ -4,21 +4,26 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
 
 ## 🗂 Domínios da Certificação
 
-1. **[1 Sessão Introdução](sessao1-Introducao/README.md)**  
-   - Definições de cloud computing  
-   - Modelo de responsabilidade compartilhada  
-   - Benefícios da AWS (Escalabilidade, Elasticidade)
+<details>
+  <summary> SESSÂO 1 - Intrudução</summary>
 
-2. **[Segurança e Conformidade](2-seguranca/README.md)**  
-   - IAM (Gerenciamento de Acessos)  
-   - AWS Shield e KMS  
-   - Conformidades (GDPR, HIPAA)
-   
+ 1. **[Intrudução](sessao1-Introducao/README.md)**  
 
-3. **[Tecnologia AWS](sessao3-conceito-CloudComputing/README.md)**  
-   - Serviços essenciais (EC2, S3, RDS, Lambda)  
-   - Arquitetura Global (Regiões, AZs)
+</details> 
 
+<details>
+  <summary> SESSÂO 2 - Plataforma da AWS</summary>
+
+</details> 
+
+<details>
+  <summary> SESSÂO 3 - Cloud Computing</summary>
+
+ 1. **[Conceitos Fundamentais de Cloud Computing](sessao3-conceito-CloudComputing/README.md)** 
+ 2. **[Conceitos Tipos de Cloud Computing com Exemplos](sessao3-conceito-CloudComputing/resumo-detalhado.md)**
+ 3. **[Conceitos  Planos de Suporte AWS](sessao3-conceito-CloudComputing/suporte.md)** 
+
+</details> 
 
 <details>
   <summary> SESSÂO 4 - IAM</summary>
