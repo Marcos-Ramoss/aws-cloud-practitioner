@@ -74,6 +74,23 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
 
 </details>  
 
+<details>
+  <summary> SESSÂO 8 - Escalabilidade EC2</summary>
+
+ 1. **[Conceito Escalabilidade EC2](Sessao%208%20-%20Escalabilidade%20EC2/Conceito%20Escalabilidade%20EC2.md)**
+ 2. **[Conceito Elasticidade EC2](Sessao%208%20-%20Escalabilidade%20EC2/Conceito%20Elasticidade%20EC2.md)**
+ 3. **[Conceito Disponibilidade EC2](Sessao%208%20-%20Escalabilidade%20EC2/Conceito%20Disponibilidade%20EC2.md)**
+ 4. **[Conceito AutoScaling EC2](Sessao%208%20-%20Escalabilidade%20EC2/Conceito%20AutoScaling%20EC2.md)**
+ 5. **[Conceito ELB](Sessao%208%20-%20Escalabilidade%20EC2/Conceito%20ELB%20AWS.md)**
+
+
+
+
+
+
+
+</details> 
+
 ## 🚀 Como Usar Este Repositório
 - Cada pasta contém um `README.md` com resumos e links úteis.
 - Para atualizar links:  
