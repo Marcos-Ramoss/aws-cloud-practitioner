@@ -43,4 +43,19 @@ Suponha que você tenha 10 desenvolvedores que precisam acessar buckets S3 com p
 ---
 
 
+## Estrutura Básica de Grupos IAM
+![Estrutura Básica de Grupos IAM](/images/Estrutura%20Básica%20de%20Grupos%20IAM.png)
+
+---
+
+##  Fluxo de Herança de Permissões
+![Fluxo de Herança de Permissões](/images/Fluxo%20de%20Herança%20de%20Permissões.png)
+
+---
+
+## 🏗️ Arquitetura Recomendada
+![Arquitetura Recomendada](/images/Arquitetura%20Recomendada.png)
+
+
+
 

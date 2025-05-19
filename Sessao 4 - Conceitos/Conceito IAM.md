@@ -25,3 +25,22 @@ Imagine uma aplicação que roda em uma instância EC2 e precisa acessar arquivo
 ---
 
 
+##  Arquitetura Básica do IAM
+![ Arquitetura Básica do IAM](/images/Arquitetura%20Básica%20do%20IAM.png)
+
+---
+
+## Fluxo de Autorização
+![CFluxo de Autorização](/images/Fluxo%20de%20Autorização%20iam.png)
+
+---
+
+## 🧩 Componentes Principais
+![Componentes Principais](/images/Componentes%20Principais.png)
+
+
+---
+
+## 🏗️ Modelo de Permissões
+![Modelo de Permissões](/images/Modelo%20de%20Permissões.png)
+

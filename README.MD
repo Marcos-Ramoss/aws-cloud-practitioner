@@ -18,10 +18,16 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
    - Serviços essenciais (EC2, S3, RDS, Lambda)  
    - Arquitetura Global (Regiões, AZs)
 
-4. **[Preços e Suporte](4-precos-e-suporte/README.md)**  
-   - Modelo de preços AWS (Pay-as-you-go)  
-   - Calculadora de custos  
-   - Planos de suporte (Basic, Developer, Business)
+## 🗂  SESSÂO 4 - IAM
+
+ 1. **[Conceito IAM](Sessao%204%20-%20Conceitos/Conceito%20IAM.md)**  
+ 2. **[Conceito IAM User](Sessao%204%20-%20Conceitos/Conceito%20IAM_USUARIO.md)**
+ 3. **[Conceito IAM Group](Sessao%204%20-%20Conceitos/Conceito%20IAM_GROUP.md)**  
+ 4. **[Conceito IAM AWS ORAGAZATION](Sessao%204%20-%20Conceitos/Conceito%20AWS_Organization.md)**
+ 5. **[Conceito IAM Indentity Center](Sessao%204%20-%20Conceitos/Conceito%20%20IAM%20Identity%20Cente.md)**     
+ 6. **[Conceito IAM CloudShell e CLI](Sessao%204%20-%20Conceitos/Conceito%20CloudShell%20e%20CLI.md)**     
+ 7. **[Conceito IAM Politica de Senha](Sessao%204%20-%20Conceitos/Conceito%20de%20Politica%20de%20senha.md)** 
+ 8. **[Conceito IAM MFA](Sessao%204%20-%20Conceitos/Conceito%20MFA.md)** 
 
 ## 🚀 Como Usar Este Repositório
 - Cada pasta contém um `README.md` com resumos e links úteis.

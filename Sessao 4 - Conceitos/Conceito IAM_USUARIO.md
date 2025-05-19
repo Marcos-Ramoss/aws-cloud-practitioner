@@ -52,4 +52,27 @@ Esse usuário pode ser adicionado a um grupo `Engenharia` ou receber políticas 
 ---
 
 
+##  Anatomia de um Usuário IAM
+![ Anatomia de um Usuário IAM](/images/Anatomia%20de%20um%20Usuário%20IAM.png)
+
+---
+
+##  Ciclo de Vida do Usuário
+![Ciclo de Vida do Usuário](/images/Ciclo%20de%20Vida%20do%20Usuário.png)
+
+---
+
+## 🏗️ Arquitetura Recomendada
+![Arquitetura Recomendada](/images/Arquitetura%20Recomendada%20usuario.png)
+
+
+---
+
+## 📌 Boas Práticas Essenciais
+![boas Práticas Essenciais](/images/oas%20Práticas%20Essenciais.png)
+
+---
+
+## ⚠️ Padrões Perigosos
+![Padrões Perigosos](/images/Padrões%20Perigosos.png)
 

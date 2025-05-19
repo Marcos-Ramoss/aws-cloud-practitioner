@@ -49,3 +49,21 @@ Uma empresa com 5 contas AWS (produção, desenvolvimento, testes, segurança e 
 
 ---
 
+## Arquitetura Básica do IAM Identity Center
+
+![Arquitetura Basica CLI CloudShell](/images/Arquitetura%20Básica%20do%20IAM%20Identity%20Center.png)
+
+---
+
+## Fluxo de Autenticação
+![Fluxo de Autenticação](/images/Fluxo%20de%20Autenticação%20Indetity.png)
+
+---
+
+## Exemplo de Implementação Empresarial
+![Comandos](/images/Exemplo%20de%20Implementação%20Empresarial.png)
+
+---
+
+## Exemplo de Implementação Empresarial
+![Comandos](/images/Boas%20praticas%20de%20Segurança.png)

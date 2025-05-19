@@ -59,4 +59,15 @@ Mesmo que alguém roube a senha de João, o acesso só será possível com o seg
 ---
 
 
+##  Fluxo de Autenticação com MFA
+![ Fluxo de Autenticação com MFA](/images/Fluxo%20de%20Autenticação%20com%20MFA.png)
 
+---
+
+## Arquitetura de Segurança com MFA
+![Arquitetura de Segurança com MFA](/images/Arquitetura%20de%20Segurança%20com%20MFA.png)
+
+---
+
+## 🏗️ Modelo de Política IAM com MFA
+![Modelo de Política IAM com MFA](/images/Modelo%20de%20Política%20IAM%20com%20MFA.png)

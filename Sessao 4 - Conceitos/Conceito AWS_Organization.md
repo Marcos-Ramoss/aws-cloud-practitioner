@@ -57,5 +57,19 @@ Cada conta é colocada em uma **Unidade Organizacional (OU)** como `Desenvolvime
 
 ---
 
+## Arquitetura Básica de uma Organização
+
+![Arquitetura Básica de uma Organização](/images/Arquitetura%20Básica%20de%20uma%20Organização.png)
+
+---
+
+## Fluxo de Criação de Conta
+![Fluxo de Criação de Conta](/images/Fluxo%20de%20Criação%20de%20Conta.png)
+
+---
+
+##  Estrutura Organizacional Típica
+![Estrutura Organizacional Típica](/images/Estrutura%20Organizacional%20Típica.png)
+
 
 

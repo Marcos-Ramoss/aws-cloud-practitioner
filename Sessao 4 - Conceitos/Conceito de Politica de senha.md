@@ -64,5 +64,27 @@ Todos os usuários IAM da organização devem obedecer a essa política ao criar
 
 ---
 
+## Componentes da Política de Senha
+![Componentes da Política de Senha](/images/Componentes%20da%20Política%20de%20Senha.png)
+
+---
+
+##  Fluxo de Aplicação da Política
+![Fluxo de Aplicação da Política](/images/Fluxo%20de%20Aplicação%20da%20Política.png)
+
+---
+
+## Configuração Recomendada
+![Configuração Recomendada](/images/Configuração%20Recomendada.png)
+
+---
+
+## ⚠️ Limitações Importantes
+![Limitações Importantes](/images/Limitações%20Importantes.png)
+
+---
+
+## 🛡️ Boas Práticas de Segurança
+![Limitações Importantes](/images/Boas%20Práticas%20de%20Segurança.png)
 
 
