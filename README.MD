@@ -13,6 +13,7 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
    - IAM (Gerenciamento de Acessos)  
    - AWS Shield e KMS  
    - Conformidades (GDPR, HIPAA)
+   
 
 3. **[Tecnologia AWS](sessao3-conceito-CloudComputing/README.md)**  
    - Serviços essenciais (EC2, S3, RDS, Lambda)  
