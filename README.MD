@@ -43,9 +43,6 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
  1. **[Conceito Infraestrutura Global da AWS](Sessao%205%20-%20Estrutura%20da%20AWS/Conceito%20Infraestrutura%20Global%20da%20AWS.md)** 
  2. **[Conceito AWS Shared Responsibility Model](Sessao%205%20-%20Estrutura%20da%20AWS/Conceito%20AWS%20Shared%20Responsibility%20Model.md)**
 
-
-
-
 </details>
 
 <details>
@@ -56,8 +53,19 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
  3. **[Modelos de Preços EC2](Sessao%206%20-%20Elastic%20Compute%20Cloud/Conceito%20Modelos%20de%20Preços%20EC2.md)**
  4. **[Conceito Security Groups EC2](Sessao%206%20-%20Elastic%20Compute%20Cloud/Conceito%20Security%20Groups%20EC2.md)**
 
+</details>
 
+<details>
+  <summary> SESSÂO 7 - Armazenamento EC2</summary>
 
+ 1. **[Conceito EBS](Sessao%207%20-%20Armazenamento%20EC2/Conceito%20EBS%20AWS.md)**
+ 2. **[Conceito Tipos EBS](Sessao%207%20-%20Armazenamento%20EC2/Conceito%20Tipos%20EBS.md)**
+ 3. **[Conceito Valores EBS](Sessao%207%20-%20Armazenamento%20EC2/Conceito%20Valores%20EBS.md)**
+ 4. **[Conceito  Conceito Discos EBS](Sessao%207%20-%20Armazenamento%20EC2/Conceito%20Discos%20EBS.md)**
+ 5. **[Conceito AMI Customizada](Sessao%207%20-%20Armazenamento%20EC2/Conceito%20AMI%20Customizada.md)**
+ 6. **[Conceito AMI Customizada](Sessao%207%20-%20Armazenamento%20EC2/Conceito%20AMI%20Customizada.md)**
+ 7. **[Conceito EFS](Sessao%207%20-%20Armazenamento%20EC2/Conceito%20EFS%20AWS.md)**
+ 8. **[Conceito FSx](Sessao%207%20-%20Armazenamento%20EC2/Conceito%20FSx%20AWS.md)**
 
 </details>  
 
