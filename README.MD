@@ -19,7 +19,9 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
    - Serviços essenciais (EC2, S3, RDS, Lambda)  
    - Arquitetura Global (Regiões, AZs)
 
-## 🗂  SESSÂO 4 - IAM
+
+<details>
+  <summary> SESSÂO 4 - IAM</summary>
 
  1. **[Conceito IAM](Sessao%204%20-%20Conceitos/Conceito%20IAM.md)**  
  2. **[Conceito IAM User](Sessao%204%20-%20Conceitos/Conceito%20IAM_USUARIO.md)**
@@ -29,6 +31,35 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
  6. **[Conceito IAM CloudShell e CLI](Sessao%204%20-%20Conceitos/Conceito%20CloudShell%20e%20CLI.md)**     
  7. **[Conceito IAM Politica de Senha](Sessao%204%20-%20Conceitos/Conceito%20de%20Politica%20de%20senha.md)** 
  8. **[Conceito IAM MFA](Sessao%204%20-%20Conceitos/Conceito%20MFA.md)** 
+ 9. **[Conceito IAM Access Key e SDK](Sessao%204%20-%20Conceitos/Conceito%20Access%20Key%20e%20SDK.md)** 
+ 10. **[Conceito IAM Access Key e SDK](Sessao%204%20-%20Conceitos/Conceito%20IAM%20Credential%20Report%20e%20Access%20Advisor.md)** 
+
+</details> 
+
+
+<details>
+  <summary> SESSÂO 5 - Estrutura da AWS</summary>
+
+ 1. **[Conceito Infraestrutura Global da AWS](Sessao%205%20-%20Estrutura%20da%20AWS/Conceito%20Infraestrutura%20Global%20da%20AWS.md)** 
+ 2. **[Conceito AWS Shared Responsibility Model](Sessao%205%20-%20Estrutura%20da%20AWS/Conceito%20AWS%20Shared%20Responsibility%20Model.md)**
+ 3. **[Conceito EC2](Sessao%205%20-%20Estrutura%20da%20AWS/Conceito%20EC2%20AWS.md)**
+ 4. **[Conceito Tipos EC2](Sessao%205%20-%20Estrutura%20da%20AWS/Conceito%20Tipos%20de%20EC2%20AWS.md)**       
+ 3. **[Modelos de Preços EC2](Sessao%205%20-%20Estrutura%20da%20AWS/Conceito%20Modelos%20de%20Preços%20EC2.md)**
+
+
+
+</details>
+
+<details>
+  <summary> SESSÂO 6 - Elastic Computer Cloud</summary>
+
+ 1. **[Conceito EC2](Sessao%206%20-%20Elastic%20Compute%20Cloud/Conceito%20EC2%20AWS.md)**
+ 2. **[Conceito Tipos EC2](Sessao%206%20-%20Elastic%20Compute%20Cloud/Conceito%20Tipos%20de%20EC2%20AWS.md)**       
+ 3. **[Modelos de Preços EC2](Sessao%206%20-%20Elastic%20Compute%20Cloud/Conceito%20Modelos%20de%20Preços%20EC2.md)**
+
+
+
+</details>  
 
 ## 🚀 Como Usar Este Repositório
 - Cada pasta contém um `README.md` com resumos e links úteis.
