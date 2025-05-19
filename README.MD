@@ -42,9 +42,7 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
 
  1. **[Conceito Infraestrutura Global da AWS](Sessao%205%20-%20Estrutura%20da%20AWS/Conceito%20Infraestrutura%20Global%20da%20AWS.md)** 
  2. **[Conceito AWS Shared Responsibility Model](Sessao%205%20-%20Estrutura%20da%20AWS/Conceito%20AWS%20Shared%20Responsibility%20Model.md)**
- 3. **[Conceito EC2](Sessao%205%20-%20Estrutura%20da%20AWS/Conceito%20EC2%20AWS.md)**
- 4. **[Conceito Tipos EC2](Sessao%205%20-%20Estrutura%20da%20AWS/Conceito%20Tipos%20de%20EC2%20AWS.md)**       
- 5. **[Modelos de Preços EC2](Sessao%205%20-%20Estrutura%20da%20AWS/Conceito%20Modelos%20de%20Preços%20EC2.md)**
+
 
 
 
