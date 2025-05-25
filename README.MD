@@ -149,6 +149,15 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
 
 </details> 
 
+<details>
+  <summary> SESSÂO 14 - Integração Cloud</summary>
+
+ 1. **[Conceito AWS Kinesis](Sessao%2014%20-%20Integracao%20Cloud/Conceito%20AWS%20Kinesis.md)** 
+ 2. **[Conceito AWS SQS](Sessao%2014%20-%20Integracao%20Cloud/Conceito%20AWS%20SQS.md)** 
+ 3. **[Conceito AWS SNS](Sessao%2014%20-%20Integracao%20Cloud/Conceito%20AWS%20SNS.md)** 
+
+</details> 
+
 ## 🚀 Como Usar Este Repositório
 - Cada pasta contém um `README.md` com resumos e links úteis.
 - Para atualizar links:  
