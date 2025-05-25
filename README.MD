@@ -101,6 +101,19 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
 
 </details> 
 
+<details>
+  <summary> SESSÂO 10 - DataBases AWS</summary>
+
+ 1. **[Conceito Databases](Sessao%2010%20-%20Conceito%20DataBases/Conceito%20Databases.md)**
+ 2. **[Conceito RDS](Sessao%2010%20-%20Conceito%20DataBases/Conceito%20RDS.md)** 
+ 3. **[Conceito Elasticache](Sessao%2010%20-%20Conceito%20DataBases/Conceito%20Elasticache.md)** 
+ 4. **[Conceito de Banco de Dados Aurora](Sessao%2010%20-%20Conceito%20DataBases/Conceito%20Banco%20de%20Dados%20Aurora.md)** 
+ 5. **[Conceito DynamoDB](Sessao%2010%20-%20Conceito%20DataBases/Conceito%20DynamoDB.md)** 
+ 6. **[Conceito Amazon Neptune](Sessao%2010%20-%20Conceito%20DataBases/Conceito%20Amazon%20Neptune.md)** 
+ 7. **[Conceito AWS Glue](Sessao%2010%20-%20Conceito%20DataBases/Conceito%20AWS%20Glue.md)** 
+
+</details> 
+
 ## 🚀 Como Usar Este Repositório
 - Cada pasta contém um `README.md` com resumos e links úteis.
 - Para atualizar links:  
