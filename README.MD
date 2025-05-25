@@ -114,6 +114,21 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
 
 </details> 
 
+<details>
+  <summary> SESSÂO 11 - Rede AWS</summary>
+
+ 1. **[Conceito VPC](Sessao%2011%20-%20Rede/Conceito%20VPC.md)**
+ 2. **[Conceito VPC Peering](Sessao%2011%20-%20Rede/Conceito%20VPC%20Peering.md)**
+ 3. **[Conceito VPC Endpoints](Sessao%2011%20-%20Rede/Conceito%20VPC%20Endpoints.md)**
+ 4. **[Conceito VPC Flow Logs](Sessao%2011%20-%20Rede/Conceito%20VPC%20Flow%20Logs.md)**
+ 5. **[Conceito ACL](Sessao%2011%20-%20Rede/Conceito%20ACL.md)**
+ 6. **[Conceito VPN](Sessao%2011%20-%20Rede/Conceito%20VPN.md)**
+ 7. **[Conceito PrivateLink](Sessao%2011%20-%20Rede/Conceito%20PrivateLink.md)**
+ 8. **[Conceito Direct Connect](Sessao%2011%20-%20Rede/Conceito%20Direct%20Connect.md)**
+ 9. **[Conceito Transit Gateway](Sessao%2011%20-%20Rede/Conceito%20Transit%20Gateway.md)**
+
+</details> 
+
 ## 🚀 Como Usar Este Repositório
 - Cada pasta contém um `README.md` com resumos e links úteis.
 - Para atualizar links:  
