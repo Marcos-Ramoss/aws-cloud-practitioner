@@ -158,6 +158,16 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
 
 </details> 
 
+<details>
+  <summary> SESSÂO 15 - Computação e Serverless</summary>
+
+ 1. **[Conceito AWS Batch](Sessao%2015%20-%20Computação%20e%20Serverless/Conceito%20AWS%20Batch.md)**
+ 2. **[Conceito AWS Lambda](Sessao%2015%20-%20Computação%20e%20Serverless/Conceito%20AWS%20Lambda.md)**
+ 3. **[Conceito AWS Fargate](Sessao%2015%20-%20Computação%20e%20Serverless/Conceito%20AWS%20Fargate.md)**
+ 4. **[Conceito AWS LightSail](Sessao%2015%20-%20Computação%20e%20Serverless/Conceito%20AWS%20LightSail.md)**
+
+</details> 
+
 ## 🚀 Como Usar Este Repositório
 - Cada pasta contém um `README.md` com resumos e links úteis.
 - Para atualizar links:  
