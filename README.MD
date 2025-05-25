@@ -129,6 +129,26 @@ Repositório organizado por domínios do exame. Baseado no [Guia Oficial AWS](ht
 
 </details> 
 
+<details>
+  <summary> SESSÂO 12 - Content Delivery</summary>
+
+ 1. **[Conceito Route53](Sessao%2012%20-%20Content%20Delivery/Conceito%20Route53.md)**
+ 2. **[Conceito Route53 Policies](Sessao%2012%20-%20Content%20Delivery/Conceito%20Route53%20Policies.md)**
+ 3. **[Conceito AWS CloudFront](Sessao%2012%20-%20Content%20Delivery/Conceito%20AWS%20CloudFront.md)**
+ 4. **[Conceito S3 Transfer Acceleration](Sessao%2012%20-%20Content%20Delivery/Conceito%20S3%20Transfer%20Acceleration.md)**
+ 5. **[Conceito AWS Global Accelerator](Sessao%2012%20-%20Content%20Delivery/Conceito%20AWS%20Global%20Accelerator.md)**
+
+</details> 
+
+<details>
+  <summary> SESSÂO 13 - Containers</summary>
+
+ 1. **[Conceito Docker](Sessao%2013%20containers/Conceito%20Docker.md)**
+ 2. **[Conceito de ECS](Sessao%2013%20containers/Conceito%20de%20ECS.MD)**
+ 3. **[Conceito Amazon EKS](Sessao%2013%20containers/Conceito%20Amazon%20EKS.md)**
+
+</details> 
+
 ## 🚀 Como Usar Este Repositório
 - Cada pasta contém um `README.md` com resumos e links úteis.
 - Para atualizar links:  
